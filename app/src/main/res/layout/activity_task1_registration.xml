@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText
+        android:id="@+id/activity_registration_task1_edit_text_login"
+        android:hint="@string/activity_registration_task1_edit_text_login_hint"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+
+    <EditText
+        android:id="@+id/activity_registration_task1_edit_text_email"
+        android:hint="@string/activity_registration_task1_edit_text_email_hint"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+
+    <EditText
+        android:id="@+id/activity_registration_task1_edit_text_password"
+        android:hint="@string/activity_registration_task1_edit_text_password_hint"
+        android:layout_width="200dp"
+        android:inputType="textPassword"
+        android:layout_height="45dp"/>
+
+    <Button
+        android:id="@+id/activity_registration_task1_button_send"
+        android:text="@string/activity_registration_task1_button_send_caption"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+</LinearLayout>

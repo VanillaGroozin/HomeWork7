@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/activity_task1_profile_text_view_login"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+
+    <TextView
+        android:id="@+id/activity_task1_profile_text_view_mail"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+
+    <TextView
+        android:id="@+id/activity_task1_profile_text_view_password"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+
+</LinearLayout>

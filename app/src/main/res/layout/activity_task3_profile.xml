@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/grey"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText
+        android:hint="@string/global_edit_text_first_name_hint"
+        android:id="@+id/activity_task3_profile_edit_text_first_name"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+
+    <EditText
+        android:hint="@string/global_edit_text_last_name_hint"
+        android:id="@+id/activity_task3_profile_edit_text_last_name"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+
+    <ImageView
+        android:id="@+id/activity_task3_profile_image_view_selfie"
+        android:layout_width="200dp"
+        android:layout_height="200dp"/>
+
+    <Button
+        android:id="@+id/activity_task3_profile_button_send"
+        android:text="@string/global_button_send_caption"
+        android:layout_width="200dp"
+        android:layout_height="45dp"/>
+</LinearLayout>

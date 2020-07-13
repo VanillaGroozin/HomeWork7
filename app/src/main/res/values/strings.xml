@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HomeWork7</string>
+
+    <string name="activity_main_button_task1_caption">Task 1</string>
+    <string name="activity_main_button_task2_caption">Task 2</string>
+    <string name="activity_main_button_task3_caption">Task 3</string>
+
+    <string name="activity_task1_button_registration_caption">Registration</string>
+    <string name="activity_task1_button_profile_caption">Profile</string>
+
+    <string name="activity_registration_task1_edit_text_login_hint">Login</string>
+    <string name="activity_registration_task1_edit_text_email_hint">Email</string>
+    <string name="activity_registration_task1_edit_text_password_hint">Password</string>
+    <string name="activity_registration_task1_button_send_caption">Send</string>
+
+    <string name="global_edit_text_first_name_hint">First name</string>
+    <string name="global_edit_text_last_name_hint">Last name</string>
+
+    <string name="global_button_send_caption">Send</string>
+
+    <string name="activity_task3_button_fill_data_caption">Fill data</string>
+</resources>
